@@ -4,9 +4,9 @@
 In this assignment we had to:
 1. create a github account and repository
 2. create a meme using functions from magick including:
-  * c()
-  * image_blank()
-  * image_read()
+    * c()
+    * image_blank()
+    * image_read()
 4. create an animation
 5. create an html index file
 6. create a github pages website: link: jeffcct.github.io
