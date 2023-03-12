@@ -3,17 +3,12 @@
 ## Assignment 1
 In this assignment we had to:
 1. create a github account and repository
-2. create a meme using functions from magick including:
+2. create a meme using functions from R's magick library including:
     * c()
     * image_blank()
     * image_read()
-4. create an animation
+4. create an animation using similar tools
 5. create an html index file
 6. create a github pages website: link: jeffcct.github.io
 7. create an html report file
-
-create a meme and an animation using R's magick library. Tp do this, we needed to use certain functions including:
-* c()
-* image_blank()
-* image_read()
 
