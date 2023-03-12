@@ -9,6 +9,6 @@ In this assignment we had to:
     * image_read()
 4. create an animation using similar tools
 5. create an html index file
-6. create a github pages website: [link](jeffcct.github.io)
+6. create a github pages website: [link](https://jeffcct.github.io/Stats220/)
 7. create an html report file
 
