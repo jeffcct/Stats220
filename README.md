@@ -1,5 +1,5 @@
 # Stats220
-**This reposotory is for *Stats220 - data technologies*. This course focuses on coding in R to learn how to use data technologies that will be used in my future doing data science.**
+**This reposotory is for *Stats220 - Data Technologies*. This course focuses on coding in R to learn how to use data technologies that will be used in my future doing data science.**
 ## Assignment 1
 In this assignment we had to:
 1. create a github account and repository
